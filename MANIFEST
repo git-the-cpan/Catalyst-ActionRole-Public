@@ -14,6 +14,7 @@ t/lib/MyApp/Controller/Basic.pm
 t/lib/MyApp/root/basic/a.css
 t/lib/MyApp/root/basic/link2/333/444.txt
 t/lib/MyApp/root/basic/link3/222.txt
+t/lib/MyApp/root/basic/relative_path/example.js
 t/lib/MyApp/root/basic/relative_path/example.txt
 t/lib/MyApp/root/basic/static/a.css
 t/lib/MyApp/root/example.txt
